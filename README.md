@@ -1,16 +1,11 @@
-### Hi there 👋
+### I'm a sotware developer, a full stack developer and a tech enthusiast! 😁
+```
+- 🔭 I’m currently working on the Temple Team website with React, tRPC and Prisma 
+- 🌱 I'm currently learning React, TypeScript and other cool stuff!
+- 👯 I'm looking to collaborate on full stack web apps!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I do some acrobatics
+```
 
-<!--
-**BennyBellier/BennyBellier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
