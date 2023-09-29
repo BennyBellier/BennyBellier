@@ -21,7 +21,7 @@ npx anmol
 ```javascript
 const benny = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "C", "Python", "Flutter],
+    code: ["TypeScript", "Javascript", "C", "Python", "Flutter"],
     askMeAbout: ["web dev", "tech", "app dev", "photography", "videography", "parkour"],
     technologies: {
         frontEnd : {
@@ -41,7 +41,7 @@ const benny = {
         misc: ["Socket.IO", "open-cv", "php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "I'm currently working on website of the association Temple Team",
+    currentFocus: ["Seeking for job", "I'm currently working on website of the association Temple Team"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
