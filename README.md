@@ -1,11 +1,54 @@
-### I'm a sotware developer, a full stack developer and a tech enthusiast! 😁
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Benjamin Bellier! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Junior developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Static Badge](https://img.shields.io/badge/Benjamin%20Bellier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-bellier-03934242)](https://www.linkedin.com/in/benjamin-bellier-03934242)
+![GitHub followers](https://img.shields.io/github/followers/BennyBellier?label=Follow&style=social)
+![Waka Readme](https://github.com/BennyBellier/BennyBellier/workflows/Waka%20Readme/badge.svg)
+<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://)](https://) -->
+
+<br/><br/><br/><br/>
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
 ```
-- 🔭 I’m currently working on the Temple Team website with React, tRPC and Prisma 
-- 🌱 I'm currently learning React, TypeScript and other cool stuff!
-- 👯 I'm looking to collaborate on full stack web apps!
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I do some acrobatics
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const benny = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "C", "Python", "Flutter],
+    askMeAbout: ["web dev", "tech", "app dev", "photography", "videography", "parkour"],
+    technologies: {
+        frontEnd : {
+            web: ["HTML", "CSS", "Sass"]
+            js: ["React", "TailwindCSS", "ElectronJS"]
+            java: ["SWING"]
+            python: ["PyQT6"]
+        },
+        backEnd: {
+            js: ["Node", "tRPC", "NextJS"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite", "prisma"],
+        misc: ["Socket.IO", "open-cv", "php"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "I'm currently working on website of the association Temple Team",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
@@ -84,3 +127,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
  Last Updated on 29/09/2023 01:06:13 UTC
 <!--END_SECTION:waka-->
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
