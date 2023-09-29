@@ -51,9 +51,7 @@ const benny = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -61,7 +59,7 @@ const benny = {
 
 > 📦 334.6 kB Used in GitHub's Storage 
  > 
-> 🏆 37 Contributions in the Year 2023
+> 🏆 41 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,21 +70,21 @@ const benny = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-🌆 Daytime                1214 commits        ███████████░░░░░░░░░░░░░░   44.98 % 
-🌃 Evening                785 commits         ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-🌙 Night                  474 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+🌞 Morning                226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+🌆 Daytime                1215 commits        ███████████░░░░░░░░░░░░░░   44.95 % 
+🌃 Evening                788 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+🌙 Night                  474 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   516 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Tuesday                  572 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Wednesday                521 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Thursday                 445 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Friday                   396 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Saturday                 183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Sunday                   66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Monday                   516 commits         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Tuesday                  572 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Wednesday                521 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Thursday                 445 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Friday                   400 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Saturday                 183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Sunday                   66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -120,12 +118,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/BennyBellier/BennyBellier/main/assets/bar_graph.png)
-
-
- Last Updated on 29/09/2023 01:06:13 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
