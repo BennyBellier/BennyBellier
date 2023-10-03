@@ -25,20 +25,20 @@ const benny = {
     askMeAbout: ["web dev", "tech", "app dev", "photography", "videography", "parkour"],
     technologies: {
         frontEnd : {
-            web: ["HTML", "CSS", "Sass"]
-            js: ["React", "TailwindCSS", "ElectronJS"]
-            java: ["SWING"]
-            python: ["PyQT6"]
+            web: ["HTML", "CSS", "Sass"],
+            js: ["React", "TailwindCSS", "ElectronJS"],
+            java: ["SWING"],
+            python: ["PyQT6"],
         },
         backEnd: {
             js: ["Node", "tRPC", "NextJS"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["Android Development"],
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite", "prisma"],
-        misc: ["Socket.IO", "open-cv", "php"]
+        misc: ["Socket.IO", "open-cv", "php"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: ["Seeking for job", "I'm currently working on website of the association Temple Team"],
