@@ -18,6 +18,7 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
           SHOW_UPDATED_DATE: "False"
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
           LOCALE: "en"
