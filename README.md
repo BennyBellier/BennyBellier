@@ -51,7 +51,9 @@ const benny = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2025%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -59,11 +61,11 @@ const benny = {
 
 > 📦 339.0 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2023
+> 🏆 63 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
