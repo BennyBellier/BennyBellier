@@ -51,8 +51,6 @@ const benny = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
@@ -67,45 +65,6 @@ const benny = {
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-🌆 Daytime                1260 commits        ██████████░░░░░░░░░░░░░░░   40.90 % 
-🌃 Evening                924 commits         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-🌙 Night                  659 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   545 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Tuesday                  627 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Wednesday                554 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Thursday                 522 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Friday                   470 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Saturday                 239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Sunday                   124 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
