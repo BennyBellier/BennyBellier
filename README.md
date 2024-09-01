@@ -61,6 +61,8 @@ const benny = {
 
 > 📦 338.0 kB Used in GitHub's Storage 
  > 
+> 🏆 47 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 9 Public Repositories 
