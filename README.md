@@ -59,7 +59,7 @@ const benny = {
 
 **🐱 My GitHub Data** 
 
-> 📦 338.0 kB Used in GitHub's Storage 
+> 📦 338.2 kB Used in GitHub's Storage 
  > 
 > 🏆 47 Contributions in the Year 2024
  > 
